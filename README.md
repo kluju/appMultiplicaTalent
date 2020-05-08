@@ -1,3 +1,22 @@
+
+App para selecionar 1 o mas colores desde una paleta, estos colores puenden ser agregados en el porta papel como eliminado, estos colores no son al alzar ya que se cargan atravez de un servicio prestado.
+
+La App fue construida con en React WEB y CSS (Boostrap en casi su 100%)
+
+las tecnologias utilizadas son : 
+  redux 
+  react-redux 
+  bootstrap 
+  reactstrap 
+  react-router-dom 
+  redux-thunk 
+  redux-logger 
+  axios
+
+Y para instalar las Dependencias es :
+    npm install --save redux react-redux bootstrap reactstrap react-router-dom redux-thunk redux-logger axios
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
