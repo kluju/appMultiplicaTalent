@@ -1,7 +1,8 @@
 
-App para selecionar 1 o mas colores desde una paleta, estos colores puenden ser agregados en el porta papel como eliminado, estos colores no son al alzar ya que se cargan atravez de un servicio prestado.
+App para selecionar  `1 o mas colores desde una paleta `, estos colores puenden ser  `agregados ` en el porta papel como  `eliminado`, estos colores no son al alzar ya que se cargan atravez de un servicio prestado.
 
-La App fue construida con en React WEB y CSS (Boostrap en casi en su 100%)
+La App fue construida con en ;
+###  `React WEB  y CSS` (Boostrap en casi en su 100%)
 
 Se puede bajar de : 
 
