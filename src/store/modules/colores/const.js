@@ -1,0 +1,13 @@
+const MODULE = 'COLORS';
+const GET_ALL = 'GET_ALL';
+const GET_SEL = 'GET_SEL';
+export const COLORS_GET_ALL_START = `${MODULE}/${GET_ALL}/START`;
+export const COLORS_GET_ALL_SUCCESS = `${MODULE}/${GET_ALL}/SUCCESS`;
+export const COLORS_GET_ALL_ERROR = `${MODULE}/${GET_ALL}/ERROR`;
+export const COLORS_GET_ALL_CLEAR = `${MODULE}/${GET_ALL}/CLEAR`;
+
+export const COLORS_GET_SEL_START = `${MODULE}/${GET_SEL}/START`;
+export const COLORS_GET_SEL_SUCCESS = `${MODULE}/${GET_SEL}/SUCCESS`;
+export const COLORS_GET_SEL_ERROR = `${MODULE}/${GET_SEL}/ERROR`;
+export const COLORS_GET_SEL_CLEAR = `${MODULE}/${GET_SEL}/CLEAR`;
+export const CLOSEMODAL = 'CLOSEMODAL';
