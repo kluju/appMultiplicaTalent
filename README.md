@@ -24,7 +24,7 @@ las tecnologias utilizadas son :
   ### `axios`
 
 Y para instalar las Dependencias es :
-    ### `npm install --save redux react-redux bootstrap reactstrap react-router-dom redux-thunk redux-logger axios`
+  ### `npm install --save redux react-redux bootstrap reactstrap react-router-dom redux-thunk redux-logger axios`
 
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
